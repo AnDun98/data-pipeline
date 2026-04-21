@@ -1,0 +1,11 @@
+employee_id,employee_name,unit,department,roles,fte
+E001,Ivanov,Process,Engineering,Engineer,0.9
+E002,Petrov,Mechanical,Engineering,Senior Engineer,1.0
+E003,Sidorov,Process,Engineering,Planner,0.5
+E004,Kuznetsova,Planning,Engineering,Manager,0.9
+E005,Smirnov,Logistic,Procurement,Engineer,0.9
+E006,Volkov,Mechanical,Engineering,Engineer,1.0
+E007,Fedorov,Process,Engineering,Senior Engineer,0.5
+E008,Lebedev,Planning,Engineering,Planner,0.5
+E009,Morozov,Logistic,Procurement,Manager,0.9
+E010,Pavlov,Process,Engineering,Engineer,0.75

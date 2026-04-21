@@ -150,7 +150,7 @@ data-pipeline/
 
     |-- transform.py
 
-    |-- validate.py
+    |-- validation.py
 
     |-- load.py
 

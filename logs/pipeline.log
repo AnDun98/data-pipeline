@@ -1,0 +1,34 @@
+2026-04-21 15:53:29,904 - INFO - Pipeline started
+2026-04-21 15:53:29,905 - INFO - Starting extraction
+2026-04-21 15:53:29,961 - INFO - Extraction completed
+2026-04-21 15:53:29,961 - INFO - Starting tranformation
+2026-04-21 15:53:30,011 - ERROR - Transformation failed: 'planned_hours'
+2026-04-21 15:58:13,179 - INFO - Pipeline started
+2026-04-21 15:58:13,179 - INFO - Starting extraction
+2026-04-21 15:58:13,206 - INFO - Extraction completed
+2026-04-21 15:58:13,206 - INFO - Starting tranformation
+2026-04-21 15:58:13,213 - ERROR - Transformation failed: 'planned_hours'
+2026-04-21 15:59:57,014 - INFO - Pipeline started
+2026-04-21 15:59:57,015 - INFO - Starting extraction
+2026-04-21 15:59:57,041 - INFO - Extraction completed
+2026-04-21 15:59:57,041 - INFO - Starting tranformation
+2026-04-21 15:59:57,081 - ERROR - Transformation failed: 'planned_hours'
+2026-04-21 16:02:05,768 - INFO - Pipeline started
+2026-04-21 16:02:05,784 - INFO - Starting extraction
+2026-04-21 16:02:05,784 - INFO - Extraction completed
+2026-04-21 16:02:05,784 - INFO - Starting tranformation
+2026-04-21 16:02:05,800 - INFO - Tranformation completed
+2026-04-21 16:02:05,800 - INFO - Starting validation
+2026-04-21 16:02:05,800 - INFO - Validation passed
+2026-04-21 16:02:05,800 - INFO - Starting load
+2026-04-21 16:02:05,800 - ERROR - Load failed: makedirs() got an unexpected keyword argument 'exists_ok'
+2026-04-21 16:04:35,960 - INFO - Pipeline started
+2026-04-21 16:04:35,960 - INFO - Starting extraction
+2026-04-21 16:04:35,960 - INFO - Extraction completed
+2026-04-21 16:04:35,960 - INFO - Starting tranformation
+2026-04-21 16:04:35,976 - INFO - Tranformation completed
+2026-04-21 16:04:35,976 - INFO - Starting validation
+2026-04-21 16:04:35,976 - INFO - Validation passed
+2026-04-21 16:04:35,976 - INFO - Starting load
+2026-04-21 16:04:36,009 - INFO - Data saved to data/processed/workload.csv
+2026-04-21 16:04:36,009 - INFO - Pipeline finished
